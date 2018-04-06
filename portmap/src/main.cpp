@@ -1,3 +1,11 @@
+// Student Name: Matthew Wempe
+// Programe Name: Project1
+// Creation Date: 11/22/17
+// Last Modified Date: 11/29/17
+// CSCI Course: CSCI-315
+// Grade Recieved: A
+// Comments: Good design, easy to implement 
+
 #include "map.hpp"
 #include <iostream>
 int main(int argc, char *argv[]){
